@@ -1,11 +1,16 @@
 _repo: The-Geography-of-New-Jersey_66218
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 66218-h/images/cover.png
 creator:
   author:
     agent_name: Snyder, Henry
     gutenberg_agent_id: '53691'
     url: http://www.gutenberg.org/2009/agents/53691
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66218#The-Geography-of-New-Jersey
 gutenberg_issued: '2021-09-04'
 identifiers:
   gutenberg: '66218'
